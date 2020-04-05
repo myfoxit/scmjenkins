@@ -2,5 +2,4 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "This is now a full wuselffffjdbudfhudfhufhsdbubdubds
-jdsbudbudsbusdbbdsusduhdd script"
+echo "This is now a full wuselscript"
